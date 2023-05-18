@@ -1,7 +1,7 @@
 # credit_risk_classification
 
 ## Intro
-In this Challenge, various techniques were used to train and evaluate a model based on loan risk. A dataset of historical lending activity was used to build a model that can identify the creditworthiness of borrowers. In the following analyis, machine learning was used as for the credit risk model. 
+In this Challenge, various techniques were used to train and evaluate a model based on loan risk. A dataset of historical lending activity was used to build a model that can identify the creditworthiness of borrowers. In the following analysis, machine learning was used for the credit risk model. 
 
 
 ## An overview of the analysis: 
