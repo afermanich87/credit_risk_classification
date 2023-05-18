@@ -32,7 +32,8 @@ The total credit risk classification is imbalanced due to the nature of the busi
 Since the high-risk loans are of more concern to the lender, this is the number that you would want to see be as close to 1 as possible. 
 
 
-## Conclusion
+
+### Resources
 
 Received help from TA's during office hours. Used the activites from module 20 as a guide for setting up my train and test prediction models. 
 Our instructor provided more information on resampling data as well. 
