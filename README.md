@@ -34,8 +34,8 @@ Since the high-risk loans are of more concern to the lender, this is the number 
 
 ## Conclusion
 
-Received help from TA's during office hours. Used the activites from module 20 as a guide for setting up my test rpediction models. 
-Our instructor provided more information on resampling data. 
+Received help from TA's during office hours. Used the activites from module 20 as a guide for setting up my train and test prediction models. 
+Our instructor provided more information on resampling data as well. 
 
 
 
